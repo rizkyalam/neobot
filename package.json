@@ -1,0 +1,17 @@
+{
+  "name": "neobot",
+  "version": "1.0.0",
+  "description": "A simple whatsapp bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "rizkyalam",
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.25.1",
+    "figlet": "^1.5.2",
+    "mime-types": "^2.1.34"
+  }
+}
